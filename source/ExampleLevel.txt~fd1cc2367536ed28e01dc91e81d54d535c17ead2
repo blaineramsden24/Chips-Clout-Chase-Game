@@ -1,0 +1,22 @@
+0
+10 15
+LLLLLLLLLLLLLLL
+LP##_L_##_L##_L
+L####LLWLLLB##L
+L####_####_###L
+L_###L_##SL###L
+LLLLLLLLLLLLLFL
+LE###TLLLL####L
+L#####LLLLL_LLL
+LG####LLLLT###L
+LLLLLLLLLLLLLLL
+TokenDoor 3 5 2
+ColourDoor 3 10 green
+Teleporter 6 5 8 10
+Token 1 4
+Token 1 6
+Token 1 13
+Token 4 1
+Player 1 2 2
+Token 4 6
+Key 1 9 green

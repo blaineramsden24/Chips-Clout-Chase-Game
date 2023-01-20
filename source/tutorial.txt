@@ -1,0 +1,20 @@
+tutorial
+0
+9 14
+LLLLLLLLLLLLLLL
+L###QLQ##_L##QL
+L####LLWLLLB##L
+L####_####_###L
+LQ###LQ##SL###L		
+LLLLLLLLLLLLLFL
+LE###TLLLL####L
+L#####LLLLL_LLL
+LG####LLLLT###L
+LLLLLLLLLLLLLLL
+Teleporter 8 10 6 5
+Goal 8 2 1
+TokenDoor 3 5 2
+Key 1 9 red
+ColourDoor 7 11 red
+Enemy wall 6 1 right
+Player 1 1 1

@@ -1,0 +1,32 @@
+2    <- level number
+0    <- time elapsed since start
+10 21
+LLLLLLLLLLLLLLLLLLLLL    <- NOTE: Goal is now represented as '_'
+L#QQQ###FS#Q#Q#L#Q#_L    <- NOTE: Token is now represented as
+L#######F#####WL###QL             'Q' and NOT specified below
+L#######F#####W_####L
+LB######F_####WL####L
+LLLLLL_LLLLLLLLLLL_LL
+L#######LLLLQ#######L
+L#######LLLLQ####L_LL
+L####_#_LLLLQ####L#_L
+LLLLLLLLLLLLLLLLLLLLL
+Key 1 19 green
+ColourDoor 3 15 blue
+Key 4 9 blue
+TokenDoor 5 6 10 false   <- Fourth parameter is whether that door is unlocked
+ColourDoor 5 18 green false
+ColourDoor 7 18 red false
+Goal 8 5 3    <- Third parameter is the variant
+Key 8 7 red
+Goal 8 19 1
+Player 1 1 1    <- The first parameter is the variant
+Enemy wall 1 16 right
+Enemy line 7 7 left
+Enemy smart 7 3
+===INVENTORY===
+false    <- fire boots
+false    <- flippers
+none    <- keys, when non-empty this will be a space-separated
+           list of colours
+0    <- tokens

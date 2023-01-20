@@ -1,0 +1,43 @@
+5
+0
+25 21
+LLLLLLLLLLLLLLLLLLLLLL
+LLTLEL####QL_########L
+LLQL#L####QLLLLLLL_LLL
+LL#L#L#LLLLL#########L
+LL#L###L#####LLLL##L#L
+LL_LLL#LLLLLLL#####L#L
+LL#####L_####L##L##L#L
+LLLL###LQ###EL##L##L#L
+LLQL###LLL#L#L##L##L#L
+LL#L#######L#L##L##L#L
+LL#L##LLLL######L##LEL
+LL#L#####L###LLLL##LLL
+LL_LLL###L###LQQL####L
+LL###L###L###L##LLLL#L
+LL###L###L#E#L##L##L#L
+LL###LL##LLLLL##L##L#L
+LL####L####L####L####L
+LL#L#######L#LLLL###LL
+LL#L#######L#########L
+LL#LLLLLLL#L#LLLLLLLLL
+LL#L#######L####L_##TL
+LL#L#LLLLL#LL###L####L
+LL###L##########LQ##QL
+LLLL#LLLLLLLLLLLLLLLLL
+L_Q_###############PLL
+LLLLLLLLLLLLLLLLLLLLLL
+Teleporter 1 2 20 20
+Goal 1 12 1
+TokenDoor 3 18 9
+ColourDoor 5 2 yellow
+ColourDoor 12 2 green
+ColourDoor 24 3 red
+Key 6 8 yellow
+Key 24 2 green 
+Key 20 17 red
+Enemy wall 14 11 left
+Enemy line 7 12 left
+Enemy smart 10 20
+Enemy smart 1 4
+Player 1 24 19

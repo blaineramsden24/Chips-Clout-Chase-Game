@@ -1,0 +1,38 @@
+1
+17 16
+LLLLLLLLLLLLLLLL
+L###_L_##ELE##_L
+L###_L####L####L
+L####L####L####L
+LT###_###F#####L
+LLLLLLLLLLLLL_LL
+L_##TLLLLLL###_L
+L####LLL##L####L
+L_###LLLT#_####L
+LL_LLLLLLLL##W_L
+L####LLLLLLLL#LL
+L####LLLLLLL###L
+L_##BLLLLLLL###L
+LLLLLLLLLLLL#G#L
+LLLLLLLLLLLLLLLL
+LLLLS___######TL
+LLLLLLLLLLLLLLLL
+TokenDoor 4 5 4
+TokenDoor 8 10 2
+ColourDoor 5 13 red
+ColourDoor 2 9 green
+Teleporter 4 1 6 4
+Teleporter 8 8 15 14
+Token 1 4
+Token 1 6
+Token 6 14
+Token 9 14
+Token 12 1
+Token 8 1
+Token 6 1
+Token 14 5
+Token 14 6
+Token 14 7
+Player 1 1 1
+Key 2 4 green
+Key 1 14 red

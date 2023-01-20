@@ -1,0 +1,26 @@
+2
+0
+10 21
+LLLLLLLLLLLLLLLLLLLLL
+L#QQQ###FS#Q#Q#L#Q#_L
+L#######F#####WL###QL
+L#######F#####W_####L
+LB######F_####WL####L
+LLLLLL_LLLLLLLLLLL_LL
+L#######LLLLQ#######L
+L#######LLLLQ####L_LL
+L####_#_LLLLQ####L#_L
+LLLLLLLLLLLLLLLLLLLLL
+TokenDoor 5 6 10 false
+ColourDoor 3 15 blue false
+ColourDoor 5 18 green false
+ColourDoor 7 18 red false
+Player 1 1 1
+Key 4 9 blue
+Key 1 19 green
+Key 8 7 red
+Enemy wall 1 16 down
+Enemy line 7 7 left
+Enemy smart 7 3
+Goal 8 19 1
+Goal 8 5 3

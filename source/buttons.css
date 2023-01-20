@@ -1,0 +1,185 @@
+#retroRed{
+    -fx-padding: 8 15 15 15;
+    -fx-text-fill: White;
+    -fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: Black;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+#retroRed: hover {
+    -fx-background-color: Red;
+}
+#retroRed:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#retroBlue {
+    -fx-padding: 8 15 15 15;
+    -fx-text-fill: White;
+    -fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: Black;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+#retroBlue:hover {
+    -fx-background-color: Blue;
+    -fx-text-fill: White;
+}
+#retroBlue:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+    }
+#retroYellow {
+    -fx-padding: 8 15 15 15;
+    -fx-text-fill: White;
+    -fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: Black;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+#retroYellow:hover {
+    -fx-background-color: Yellow;
+    -fx-text-fill: Black;
+}
+#retroYellow:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#retroOrange{
+    -fx-padding: 8 15 15 15;
+    -fx-text-fill: White;
+    -fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: Black;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+#retroOrange:hover {
+    -fx-background-color: Orange;
+}
+#retroOrange:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#retroGreen{
+    -fx-padding: 8 15 15 15;
+    -fx-text-fill: White;
+    -fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: Black;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+}
+
+#retroGreen:hover {
+    -fx-background-color: Green;
+}
+#retroOrange:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+
+#motd {
+    -fx-text-fill: White;
+    -fx-text-inner-color: white;
+
+    -fx-font-size: 1.1em;
+    -fx-font-weight: bold;
+    -fx-border-color: Black;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: Black;
+}
+
+#motd: hover{
+    -fx-fill: White;
+    -fx-font-size: 1.1em;
+    -fx-font-weight: bold;
+    -fx-background-color: Grey;
+}
+
+#settings {
+    -fx-text-fill: White;
+    -fx-font-size: 1.1em;
+    -fx-background-color: transparent;
+}
+#arrow{
+    -fx-background-color: Black;
+    -fx-background-insets: 0 0 -1 0, 0;
+    -fx-padding: 0.25em;
+    -fx-text-fill: White;
+    -fx-shape: "M 0 -3.5 v 7 l 4 -3.5 z";
+}
+
+#arrow: hover{
+    -fx-background-color: Green;
+}
+
+#arrow: pressed{
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+#retroBlueLogin{
+    -fx-padding: 8 15 15 15;
+    -fx-text-fill: Black;
+    -fx-effect: dropshadow( gaussian , #a30000 , 0,0,0,2 );
+    -fx-background-insets: 0,0 0 5 0, 0 0 6 0, 0 0 7 0;
+    -fx-background-radius: 8;
+    -fx-background-color: Grey;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+    -fx-font-weight: bold;
+    -fx-font-size: 1.5em;
+}
+#retroBlueLogin:hover {
+    -fx-background-color: Blue;
+    -fx-text-fill: White;
+}
+#retroBlueLogin:pressed {
+    -fx-padding: 10 15 13 15;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+    }
+
+
+#error{
+    -fx-text-fill: White;
+    -fx-font-size: 4.1em;
+    -fx-padding: 0 0 50 500;
+    -fx-font-weight: bold;
+
+}
+
+#combox{
+    -fx-text-fill: White;
+    -fx-font-weight: bold;
+    -fx-font-size: 1.1em;
+    -fx-background-color: grey;
+}
+
+#combox: hover{
+    -fx-background-color: Green;
+}
+
+#profile{
+     -fx-text-fill: White;
+     -fx-font-weight: bold;
+     -fx-background-color: Black;
+}
+
+#profile: hover{
+     -fx-text-fill: White;
+     -fx-font-weight: bold;
+     -fx-background-color: Black;
+}
